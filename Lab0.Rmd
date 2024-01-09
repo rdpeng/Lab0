@@ -1,0 +1,79 @@
+---
+title: "Lab 0"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+## Enter the YOUR NAME below:
+
+
+
+
+## Instructions
+
+*For all questions, include the R commands/functions that you used to find your answer (show R chunk). Answers without supporting code will not receive credit. Write full sentences to describe your findings.*
+
+In this lab, you will write some simple R Markdown to ensure that you can compile R Markdown documents into PDF files. Assignments in this course will be submitted in the form of compiled PDF documents so it is important that you have the tools installed to do this.
+
+## Question 1
+
+If you haven't already, install the `tidyverse` package.
+
+In the code chunk below, load the `tidyverse` package with the `library()` function.
+
+```{r}
+## [Delete this comment and replace it with something more descriptive]
+
+```
+
+
+## Question 2
+
+You can obtain the version of R that you are using with the following code.
+
+```{r}
+print(R.version.string)
+```
+
+
+Using an unordered list (i.e. bulleted list), write the version of R that you are using and the version of RStudio that you are using.
+
+* R version: 
+
+* RStudio version: 
+
+
+## Question 3
+
+Modify the text of this sentence link some of the text to the UT Austin main web page.
+
+## Question 4
+
+Modify this sentence to make some of the words in the sentence bold face.
+
+
+## Question 5
+
+Modify this sentence to make some of the words in the sentence italic face.
+
+
+------------------------------------------------------------------------
+
+## Formatting
+
+Render your file! You can
+
+1. Render your file into HTML
+
+2. Once it renders in HTML, click on `Open in Browser` at the top left of the window pops out. 
+
+3. Print your HTML file into PDF from your browser. 
+
+4. Upload your PDF file to Gradescope.
+
+
+Any issues? Ask your classmates or a TA!
+
+
+
