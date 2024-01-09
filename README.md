@@ -1,4 +1,4 @@
-# Welcome to Lab 1
+# Welcome to Lab 0
 
 This repository contains the materials for the Lab. The following are instructions for opening the Lab inside RStudio. 
 
